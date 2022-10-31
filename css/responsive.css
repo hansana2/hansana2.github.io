@@ -35,6 +35,7 @@
   }
   div.social-icons {
     text-align: left;
+    padding-top: 0;
   }
 
   .social-icons ul {
