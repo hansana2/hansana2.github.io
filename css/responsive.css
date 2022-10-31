@@ -1,13 +1,10 @@
 /* XS VERSION */
 @media (max-width: 575.98px) {
-    a.navbar-brand {
-    }
-  }
-  
+}
 
 /* // Small devices (landscape phones, 576px and up) */
-@media (min-width: 576px) {
-    /* header sectiom */
+@media  {
+  /* header sectiom */
   #header .container {
     padding-top: 3vh;
   }
@@ -55,35 +52,33 @@
 }
 
 /* // Medium devices (tablets, 768px and up) */
-@media (min-width: 768px) {
-    /* div.social-icons {
-        text-align: left;
-      }
-    
-      .social-icons.container > ul > li:nth-child(1) {
-        margin: 0 0;
-      }
-    
-      .social-icons.container > ul {
-        margin: 0;
-        padding: 0;
-      }
-    
-      .about-p {
-        font-family: "Bitter";
-        font-size: 15px;
-        margin-top: 10px;
-        line-height: 2;
-    
-        margin-top: 10px;
-      }
-    
-      .about-btn {
-        height: 40px;
-        width: 150px;
-        font-size: 15px;
-        margin-top: 0px;
-      }
-    
-     */
+@media (max-width: 991.98px) {
+  div.social-icons {
+    text-align: left;
+  }
+
+  .social-icons.container > ul > li:nth-child(1) {
+    margin: 0 0;
+  }
+
+  .social-icons.container > ul {
+    margin: 0;
+    padding: 0;
+  }
+
+  .about-p {
+    font-family: "Bitter";
+    font-size: 15px;
+    margin-top: 10px;
+    line-height: 2;
+
+    margin-top: 10px;
+  }
+
+  .about-btn {
+    height: 40px;
+    width: 150px;
+    font-size: 15px;
+    margin-top: 0px;
+  }
 }
