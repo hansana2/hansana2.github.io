@@ -7,7 +7,6 @@
   a.navbar-brand {
     font-size: 15px;
   }
-  
 
   #header .container {
     padding-top: 5vh;
@@ -31,6 +30,24 @@
   .sub-heading {
     font-size: 2vh;
   }
+  div.social-icons {
+    text-align: left;
+  }
+
+  .social-icons ul {
+    padding: 0;
+  }
+  .social-icons i {
+    width: 30px;
+    height: 30px;
+    font-size: 15px;
+    text-align: center;
+    padding-top: 7.5px;
+    border-radius: 50%;
+  }
+
+  .social-icons ul li {
+    margin: 0 5px;
 }
 
 /* // Small devices (landscape phones, 576px and up) */
