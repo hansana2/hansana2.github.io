@@ -1,0 +1,135 @@
+/* Navigation Menu */
+/* * {
+  background-color: #ff331f;
+} */
+
+#nav {
+  padding-top: 20px;
+  background-color: #ff331f;
+}
+
+a.navbar-brand {
+  font-family: "Inter", sans-serif;
+  font-weight: 700;
+  font-size: 30px;
+}
+
+.navbar-nav > li {
+  margin-left: 10px;
+  margin-right: 10px;
+  font-family: "Inter", sans-serif;
+  font-weight: 300;
+  font-size: 15px;
+}
+
+/* Header Section */
+
+#header {
+  background-color: #ff331f;
+}
+
+#header .container {
+  padding-top: 10vh;
+}
+
+.header-img {
+  height: 350px;
+}
+
+.header-titles {
+  color: #fff;
+  font-family: "Inter";
+}
+
+.first-heading {
+  font-size: 50px;
+  font-weight: 700;
+  margin-bottom: 0;
+}
+
+.main-heading {
+  font-size: 80px;
+  font-weight: 800;
+  line-height: 1;
+}
+
+.sub-heading {
+  font-family: "Bitter";
+  font-weight: 500;
+  font-size: 30px;
+  line-height: 1.2;
+}
+/* Header Social Icons */
+
+.social-icons {
+  margin: 0;
+  padding: 0;
+}
+
+.social-icons ul {
+  margin: 0;
+  /* padding: 5px; */
+}
+
+.social-icons ul li {
+  margin: 0 10px;
+  list-style: none outside none;
+  display: inline-block;
+}
+
+.social-icons i {
+  width: 60px;
+  height: 60px;
+  color: #fff;
+  background-color: #0d0106;
+  font-size: 30px;
+  text-align: center;
+  padding-top: 15px;
+  border-radius: 50%;
+}
+
+div.social-icons {
+  text-align: center;
+  margin-top: 90px;
+  padding-bottom: 30px;
+}
+
+/* About Section */
+#about {
+  background-color: #fff;
+}
+
+.about-title {
+  color: #ff331f;
+  font-family: "Inter";
+  font-weight: 700;
+  font-size: 35px;
+  margin-top: 130px;
+}
+
+.about-p {
+  font-family: "Bitter";
+  font-size: 20px;
+  margin-top: 30px;
+  line-height: 2;
+
+  margin-top: 40px;
+}
+
+.about-image {
+  margin-top: 130px;
+  margin-bottom: 130px;
+}
+
+.about-btn {
+  height: 50px;
+  width: 200px;
+  border: none;
+  border-radius: 8px;
+  font-family: "Inter";
+  font-size: 20px;
+  color: white;
+  background-color: #ff331f;
+
+  margin-top: 10px;
+}
