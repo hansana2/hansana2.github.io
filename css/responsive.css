@@ -62,6 +62,17 @@
 
   .navbar-nav > li {
     font-size: 10px;
+    margin-left: 15px;
+  }
+  .about-title {
+    font-size: 20px;
+  }
+  .about-p {
+    font-size: 10px;
+  }
+
+  .about-image {
+    width: 90%;
   }
   
 }
