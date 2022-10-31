@@ -1,15 +1,23 @@
 /* XS VERSION */
 @media (max-width: 575.98px) {
-
+  .first-heading {
+    font-size: 1vh;
+    color: blue;
   }
-  
+
+  .main-heading {
+    font-size: 10vh;
+  }
+
+  .sub-heading {
+    font-size: 1vh;
+  }
+}
 
 /* // Small devices (landscape phones, 576px and up) */
-@media (max-width: 767.98px {
-  
+@media (max-width: 767.98px) {
 }
 
 /* // Medium devices (tablets, 768px and up) */
 @media (max-width: 991.98px) {
-    
 }
