@@ -68,10 +68,14 @@
   .about-title {
     font-size: 20px;
     margin-top: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
   }
   .about-p {
     font-size: 10px;
     margin-top: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
   }
   #about > div > div > div.col-lg-5.col-md-5 {
     text-align: center;
@@ -91,8 +95,9 @@
     width: 100px;
     border-radius: 4px;
     font-size: 10px;
-
     margin-top: 5px;
+    margin-left: 10px;
+    margin-right: 10px;
   }
 }
 
