@@ -9,7 +9,7 @@
   }
 
   #header .container {
-    padding-top: 5vh;
+    padding-top: 35px;
   }
   .header-img {
     height: 30vh;
@@ -48,6 +48,10 @@
 
   .social-icons ul li {
     margin: 0 5px;
+  }
+  .about-image {
+  height: 40px;
+  }
 }
 
 /* // Small devices (landscape phones, 576px and up) */

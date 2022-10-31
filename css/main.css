@@ -30,7 +30,12 @@ a.navbar-brand {
 }
 
 #header .container {
-  padding-top: 10vh;
+  padding-top: 75px;
+}
+
+#header > div > div > div.col-lg-7 {
+  padding-top: 2vh;
+  padding-left: 3vh;
 }
 
 .header-img {
