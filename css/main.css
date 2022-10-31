@@ -65,6 +65,10 @@ a.navbar-brand {
   font-size: 30px;
   line-height: 1.2;
 }
+
+.header-emoji {
+  font-size: 3vh;
+}
 /* Header Social Icons */
 
 .social-icons {

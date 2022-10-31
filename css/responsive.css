@@ -35,6 +35,10 @@
   .sub-heading {
     font-size: 2vh;
   }
+
+  .header-emoji {
+    font-size: 2vh;
+  }
   div.social-icons {
     text-align: left;
     padding-top: 0;
@@ -56,9 +60,6 @@
   .social-icons ul li {
     margin: 0 5px;
   }
-  .about-image {
-    height: 40px;
-  }
 
   .navbar-nav > li {
     font-size: 10px;
@@ -72,9 +73,26 @@
     font-size: 10px;
     margin-top: 10px;
   }
+  #about > div > div > div.col-lg-5.col-md-5 {
+    text-align: center;
+  }
   .about-image {
-    width: 80%;
-    margin: 0 0 0 13px;
+    width: 90%;
+    margin-top: 50px;
+    margin-bottom: 0;
+  }
+
+  .about-title {
+    margin-top: 30px;
+  }
+
+  .about-btn {
+    height: 50px;
+    width: 200px;
+    border-radius: 8px;
+    font-size: 20px;
+
+    margin-top: 5px;
   }
 }
 
