@@ -6,6 +6,7 @@
 #nav {
   padding-top: 20px;
   background-color: #ff331f;
+  border: 0;
 }
 
 a.navbar-brand {
@@ -42,13 +43,13 @@ a.navbar-brand {
 }
 
 .first-heading {
-  font-size: 5vh;
+  font-size: 50px;
   font-weight: 700;
   margin-bottom: 0;
 }
 
 .main-heading {
-  font-size: 10vh;
+  font-size: 80px;
   font-weight: 800;
   line-height: 1;
 }
@@ -56,7 +57,7 @@ a.navbar-brand {
 .sub-heading {
   font-family: "Bitter";
   font-weight: 500;
-  font-size: 3.5vh;
+  font-size: 30px;
   line-height: 1.2;
 }
 /* Header Social Icons */

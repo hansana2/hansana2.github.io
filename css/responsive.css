@@ -1,8 +1,27 @@
 /* XS VERSION */
 @media (max-width: 575.98px) {
+  #nav {
+    padding-top: 10px;
+  }
+
+  a.navbar-brand {
+    font-size: 15px;
+  }
+  
+
+  #header .container {
+    padding-top: 5vh;
+  }
+  .header-img {
+    height: 30vh;
+  }
+
+  #header > div > div > div.col-lg-5 {
+    text-align: center;
+  }
+
   .first-heading {
-    font-size: 1vh;
-    color: blue;
+    font-size: 3vh;
   }
 
   .main-heading {
@@ -10,7 +29,7 @@
   }
 
   .sub-heading {
-    font-size: 1vh;
+    font-size: 2vh;
   }
 }
 
