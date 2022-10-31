@@ -87,10 +87,10 @@
   }
 
   .about-btn {
-    height: 50px;
-    width: 200px;
-    border-radius: 8px;
-    font-size: 20px;
+    height: 25px;
+    width: 100px;
+    border-radius: 4px;
+    font-size: 10px;
 
     margin-top: 5px;
   }
