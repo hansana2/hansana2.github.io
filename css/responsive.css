@@ -14,6 +14,9 @@
   .header-img {
     height: 30vh;
   }
+  #header > div:nth-child(1) > div > div.col-lg-7.header-titles {
+    padding-top: 30px;
+  }
 
   #header > div > div > div.col-lg-5 {
     text-align: center;
@@ -38,11 +41,11 @@
     padding: 0;
   }
   .social-icons i {
-    width: 30px;
-    height: 30px;
-    font-size: 15px;
+    width: 40px;
+    height: 40px;
+    font-size: 20px;
     text-align: center;
-    padding-top: 7.5px;
+    padding-top: 10px;
     border-radius: 50%;
   }
 
@@ -50,7 +53,7 @@
     margin: 0 5px;
   }
   .about-image {
-  height: 40px;
+    height: 40px;
   }
 }
 
