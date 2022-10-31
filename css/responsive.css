@@ -6,6 +6,7 @@
 
   a.navbar-brand {
     font-size: 15px;
+    padding-left: 13px;
   }
 
   #header .container {
@@ -16,6 +17,7 @@
   }
   #header > div:nth-child(1) > div > div.col-lg-7.header-titles {
     padding-top: 30px;
+    padding-left: 25px;
   }
 
   #header > div > div > div.col-lg-5 {
@@ -40,6 +42,7 @@
 
   .social-icons ul {
     padding: 0;
+    margin-left: 8px;
   }
   .social-icons i {
     width: 40px;
@@ -56,6 +59,11 @@
   .about-image {
     height: 40px;
   }
+
+  .navbar-nav > li {
+    font-size: 10px;
+  }
+  
 }
 
 /* // Small devices (landscape phones, 576px and up) */
@@ -64,4 +72,11 @@
 
 /* // Medium devices (tablets, 768px and up) */
 @media (max-width: 991.98px) {
+  div.social-icons {
+    text-align: left;
+  }
+
+  .social-icons ul {
+    padding: 0;
+  }
 }
