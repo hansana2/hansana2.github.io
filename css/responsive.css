@@ -129,6 +129,22 @@
     font-size: 15px;
   }
 
+  .skills-title {
+    font-family: 'Inter';
+    font-size: 20px;
+    font-weight: 700;
+    padding-top: 50px;
+    color: #ff331f;
+  }
+
+  .skills-p {
+    font-size: 10px;
+    margin-bottom: 10px;
+  }
+
+  .skills-slider {
+    padding-bottom: 50px;
+  }
 }
 /* // Small devices (landscape phones, 576px and up) */
 @media (max-width: 767.98px) {
