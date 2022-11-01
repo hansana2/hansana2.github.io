@@ -209,8 +209,20 @@ div.social-icons {
 }
 
 /* SKILLS SECTION */
+.skills-heading {
+  text-align: center;
+}
 
 .skills-title {
   font-family: 'Inter';
-  font-weight: ;
+  font-weight: 700;
+  padding-top: 130px;
+  color: #ff331f;
+}
+
+.skills-p {
+  font-family: "Bitter";
+  font-size: 20px;
+  font-weight: 500;
+  margin-bottom: 50px;
 }
