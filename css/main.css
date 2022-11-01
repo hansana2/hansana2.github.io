@@ -166,16 +166,25 @@ div.social-icons {
   font-weight: 700;
   font-size: 35px;
   padding-top: 125px;
-  margin-bottom: 0;
+  margin-bottom: 15px;
 }
 
 .services-p {
   font-family: "Bitter";
   font-size: 20px;
   color: #fff;
+  margin-bottom: 50px;
 }
 /* Services Icon */
 
+.card {
+  padding-bottom: 30px;
+  margin-bottom: 130px;
+}
+.service-icons {
+  padding-top: 60px;
+  padding-bottom: 20px;
+}
 .service-icons i {
   font-size: 60px;
   padding: 40px;
@@ -184,3 +193,17 @@ div.social-icons {
   background-color: #0d0106;
 }
 
+.card-headings h2 {
+  font-family: 'Inter';
+  font-size: 30px;
+  font-weight: 700;
+}
+
+.card-headings p {
+  font-family: 'Bitter';
+  font-size: 20px;
+  font-weight: 500;
+  font-style: italic;
+  line-height: 1.2;
+
+}
