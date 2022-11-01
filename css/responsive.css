@@ -123,10 +123,12 @@
 
   .card-headings h2 {
     font-size: 20px;
-}
+  }
 
-.card-headings p {
-  font-size: 15px;
+  .card-headings p {
+    font-size: 15px;
+  }
+
 }
 /* // Small devices (landscape phones, 576px and up) */
 @media (max-width: 767.98px) {
