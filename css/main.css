@@ -174,3 +174,13 @@ div.social-icons {
   font-size: 20px;
   color: #fff;
 }
+/* Services Icon */
+
+.service-icons i {
+  font-size: 60px;
+  padding: 40px;
+  border-radius: 50%;
+  color: #fff;
+  background-color: #0d0106;
+}
+
