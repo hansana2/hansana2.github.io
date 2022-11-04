@@ -167,6 +167,7 @@
   .services-title {
     padding-top: 100px;
   }
+
 }
 
 /* // `lg` applies to medium devices (tablets, less than 992px) */
@@ -186,6 +187,22 @@
   .about-btn {
     margin-bottom: 80px;
   }
+
+  .info-box img {
+    height: 35px;
+  
+  }
+  .ib-heading {
+    font-size: 20px;
+  }
+  
+  .sub-ib-heading-box p:nth-child(1) {
+    font-size: 15px;
+  }
+  .sub-ib-heading-box p:nth-child(2) {
+    font-size: 15px;
+  }
+
 }
 
 /* // `xl` applies to large devices (desktops, less than 1200px) */
