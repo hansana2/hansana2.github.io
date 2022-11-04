@@ -300,7 +300,20 @@ div.social-icons {
 .form-label {
   font-family: 'Inter';
   font-weight: 600;
+  color: #fff;
 }
 .form-control {
   font-family: 'Inter';
+  margin-bottom: 20px;
 }
+
+.form-submit {
+  height: 50px;
+  width: 150px;
+  font-family: 'Inter';
+  font-weight: 700;
+  background-color: #fff;
+  color: #ff331f;
+  border: none;
+}
+

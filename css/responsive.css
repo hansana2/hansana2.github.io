@@ -145,6 +145,25 @@
   .skills-slider {
     padding-bottom: 50px;
   }
+
+  #contact .col-lg-5 {
+    padding-left: 25px;
+    padding-right: 25px;
+  }
+
+  .contact-headings {
+    padding-left: 25px;
+    padding-right: 25px;
+  }
+
+  .contact-title {
+    padding-top: 50px;
+    font-size: 20px;
+  }
+
+  .contact-p {
+    font-size: 10px;
+  }
 }
 /* // `md` applies to small devices (landscape phones, less than 768px) */
 @media (max-width: 767.98px) {
@@ -168,6 +187,13 @@
     padding-top: 100px;
   }
 
+  .info-box {
+    margin-bottom: 50px;
+  }
+
+  .form-submit {
+    margin-bottom: 50px;
+  }
 }
 
 /* // `lg` applies to medium devices (tablets, less than 992px) */
@@ -190,19 +216,17 @@
 
   .info-box img {
     height: 35px;
-  
   }
   .ib-heading {
     font-size: 20px;
   }
-  
+
   .sub-ib-heading-box p:nth-child(1) {
     font-size: 15px;
   }
   .sub-ib-heading-box p:nth-child(2) {
     font-size: 15px;
   }
-
 }
 
 /* // `xl` applies to large devices (desktops, less than 1200px) */
