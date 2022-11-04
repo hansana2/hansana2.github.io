@@ -163,6 +163,10 @@
   .about-btn {
     margin-bottom: 80px;
   }
+
+  .services-title {
+    padding-top: 100px;
+  }
 }
 
 /* // `lg` applies to medium devices (tablets, less than 992px) */
@@ -182,8 +186,6 @@
   .about-btn {
     margin-bottom: 80px;
   }
-
-
 }
 
 /* // `xl` applies to large devices (desktops, less than 1200px) */
@@ -211,4 +213,3 @@
     padding-bottom: 40px;
   }
 }
-
