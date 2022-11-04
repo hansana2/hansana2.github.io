@@ -1,4 +1,4 @@
-/* XS VERSION */
+/* SMALL VERSION */
 @media (max-width: 575.98px) {
   #nav {
     padding-top: 10px;
@@ -81,7 +81,7 @@
     text-align: center;
   }
   .about-image {
-    width: 90%;
+    width: 50%;
     margin-top: 50px;
     margin-bottom: 0;
   }
@@ -130,7 +130,7 @@
   }
 
   .skills-title {
-    font-family: 'Inter';
+    font-family: "Inter";
     font-size: 20px;
     font-weight: 700;
     padding-top: 50px;
@@ -146,17 +146,69 @@
     padding-bottom: 50px;
   }
 }
-/* // Small devices (landscape phones, 576px and up) */
+/* // `md` applies to small devices (landscape phones, less than 768px) */
 @media (max-width: 767.98px) {
+  .about-image {
+    margin-bottom: 50px;
+    margin-top: 80px;
+  }
+  .about-title {
+    margin-top: 0;
+  }
+
+  .about-p {
+    margin-top: 0;
+  }
+
+  .about-btn {
+    margin-bottom: 80px;
+  }
 }
 
-/* // Medium devices (tablets, 768px and up) */
+/* // `lg` applies to medium devices (tablets, less than 992px) */
 @media (max-width: 991.98px) {
-  div.social-icons {
-    text-align: left;
+  .about-image {
+    margin-bottom: 50px;
+    margin-top: 80px;
+  }
+  .about-title {
+    margin-top: 0;
   }
 
-  .social-icons ul {
-    padding: 0;
+  .about-p {
+    margin-top: 0;
+  }
+
+  .about-btn {
+    margin-bottom: 80px;
+  }
+
+
+}
+
+/* // `xl` applies to large devices (desktops, less than 1200px) */
+@media (max-width: 1199.98px) {
+  .about-image {
+    width: 100%;
+  }
+
+  .service-icons i {
+    font-size: 40px;
+    padding: 30px;
+  }
+  .card-headings h2 {
+    font-size: 20px;
+  }
+  .card-headings p {
+    font-size: 15px;
+  }
+
+  .skills-title {
+    padding-top: 100px;
+  }
+
+  .skills-slider {
+    padding-bottom: 40px;
   }
 }
+
