@@ -47,7 +47,7 @@
 }
 .footer-links a:active,.footer-links a:focus,.footer-links a:hover
 {
-  color:#3366cc;
+  color:#fff;
   text-decoration:none;
 }
 .footer-links.inline li
@@ -127,7 +127,7 @@
 .socialIcons a:active,.socialIcons a:focus,.socialIcons a:hover
 {
   color:#fff;
-  background-color:#29aafe
+  background-color:#29aafe;
 }
 .socialIcons.size-sm a
 {
@@ -160,4 +160,15 @@
     margin-right:0;
     font-weight:600
   }
+}
+
+/* My Customization */
+
+.footer-img {
+  height: 2em;
+}
+
+.socialIcons a.my-icon:hover
+{
+  background-color:#ff331f;
 }
