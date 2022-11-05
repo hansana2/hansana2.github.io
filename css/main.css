@@ -1,3 +1,7 @@
+html {
+  scroll-behavior: smooth;
+}
+
 ::-moz-selection { /* Code for Firefox */
   color:  #fff;
   background: #ff8c81;
@@ -228,7 +232,7 @@ div.social-icons {
 }
 
 .skills-slider {
-  padding-bottom: 130px;
+  padding-bottom: 100px;
 }
 
 /* Contact Section */

@@ -172,3 +172,12 @@
 {
   background-color:#ff331f;
 }
+
+h6 {
+  font-family: 'Inter';
+}
+
+li a, p {
+  font-family: Inter;
+  text-decoration: none;
+}
