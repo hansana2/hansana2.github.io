@@ -156,10 +156,11 @@ div.social-icons {
 }
 
 #about > div > div > div.col-lg-6 > button > a {
+  color: white;
   text-decoration: none;
   font-family: "Inter";
   font-size: 20px;
-  color: white;
+  
 }
 /* Services Section */
 
