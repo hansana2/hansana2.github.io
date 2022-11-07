@@ -1,0 +1,26 @@
+{
+  "name": "myportfolio",
+  "version": "2.1.0",
+  "description": "BAckend of My Personal Personal Website",
+  "main": "main.js",
+  "scripts": {
+    "test": "npm run main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HansanaBackup/hansanabackup.github.io.git"
+  },
+  "keywords": [
+    "hansana"
+  ],
+  "author": "CALIBER",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HansanaBackup/hansanabackup.github.io/issues"
+  },
+  "homepage": "https://github.com/HansanaBackup/hansanabackup.github.io#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "nodemon": "^2.0.20"
+  }
+}
